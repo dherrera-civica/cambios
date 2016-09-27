@@ -1,12 +1,12 @@
 {
-  "auth_token": "UChtTtWLnutRJkpRkx5BTHtx",
+  "auth_token": "xam3NLjpFqLefaXu7tGkhtZ9",
   "challenge": {
-    "title": "Salvemos el mundo",
-    "subtitle": "Salvaremos el mundo con este reto",
-    "description": "Necesitamos rescatar nuestro planeta...",
-    "image": "www.salvaelmundo.com/imagen_salva.png",
-    "objective": "El objetivo de este reto es...",
-    "date_begin": "2016-08-14",
-    "date_end": "2016-08-16"
+    "title": "Pulmón urbano",
+    "subtitle": "Pulmón urbano",
+    "description": "Recorrido por una calle del municipio de Monterrey para evaluar y hacer un diagnóstico del espacio público.",
+    "image": "https://www.pueblobicicletero.org/wp-content/uploads/2014/07/bici-arbol-48.png",
+    "objective": "Evalúa las condiciones de los árboles, banquetas, mobiliario urbano, paradas de transporte público, cebras peatonales, luminarias,obstrucciones y condiciones para peatones y ciclistas, siguiendo las instrucciones que da el staff de Pulmón Urbano.",
+    "date_begin": "2016-09-28",
+    "date_end": "2016-09-28"
   }
 }
